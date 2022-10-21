@@ -1,0 +1,36 @@
+fieldset{
+	color: #2c3e50	;
+	border: 1px solid #000;	
+    background-color:#ffffff;
+    border-radius: 10px 20px 30px;
+    }
+
+.fieldset-responsive{width:100%px;padding:15px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;	text-align:center;margin:10px auto;font-family:armenian;overflow-y:hidden;-ms-overflow-style:-ms-autohiding-scrollbar;border:1px solid #000}.fieldset-responsive>.fieldset{margin-bottom:0}.fieldset-responsive>.fieldset>h3>h4>strong>p
+h3{
+	text-align: margin-top;
+}
+
+
+p{
+	font-size: 20px;
+		text-align: center;
+}
+
+.esquerda{
+	text-align: left;
+}
+
+.center{
+	text-align: center;
+}
+
+
+
+.col-lg-4{
+	position:relative;
+	min-height:10px;
+	padding-left:1px;
+	padding-right:15px}
+	
+ 	
+
